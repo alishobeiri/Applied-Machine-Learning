@@ -23,6 +23,7 @@ This repo is a collection of all assignments completed as part of an applied mac
   * IMDB Dataset:
     * 50000 reviews
     * 2 class problem (1 positive, 0 negative)  
+   
 Classifiers used and cross validated for best hyperparameter performance:
 * SVM (linear)
 * Decision Trees
