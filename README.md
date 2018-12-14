@@ -22,7 +22,7 @@ This repo is a collection of all assignments completed as part of an applied mac
     * 5 class problem (ratings 1 to 5)
   * IMDB Dataset:
     * 50000 reviews
-    * 2 class problem (1 positive, 0 negative)
+    * 2 class problem (1 positive, 0 negative)  
 Classifiers used and cross validated for best hyperparameter performance:
 * SVM (linear)
 * Decision Trees
