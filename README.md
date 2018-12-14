@@ -15,7 +15,7 @@ This repo is a collection of all assignments completed as part of an applied mac
 * K nearest neighbors by hand (using only Numpy)
 * Comparison of decision boundary and performance for all classifiers
 
-#### Assignment 3: Sentiment Analysis, Cross Validation
+#### Assignment 3: Sentiment Analysis, BBoW, FBoW
 * Natural Language Processing on:
   * YELP Dataset:
     * 10000 reviews
@@ -23,6 +23,8 @@ This repo is a collection of all assignments completed as part of an applied mac
   * IMDB Dataset:
     * 50000 reviews
     * 2 class problem (1 positive, 0 negative)  
+    
+Preprocessed data into frequency bag of words representation and binary bag of words representation, comparing performance of each on the classifiers listed below. 
    
 Classifiers used and cross validated for best hyperparameter performance:
 * SVM (linear)
