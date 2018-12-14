@@ -1,0 +1,31 @@
+k:  1
+Precision:  0.507537688442211
+Recall:  0.505
+Accuracy:  0.5075
+F1 Measure:  0.5062656641604011
+
+
+k:  61
+Precision:  0.5751295336787565
+Recall:  0.555
+Accuracy:  0.5725
+F1 Measure:  0.5648854961832063
+
+
+k:  121
+Precision:  0.5743073047858942
+Recall:  0.57
+Accuracy:  0.57375
+F1 Measure:  0.5721455457967376
+
+
+k:  181
+Precision:  0.5934343434343434
+Recall:  0.5875
+Accuracy:  0.5925
+F1 Measure:  0.5904522613065327
+
+
+Best k we found, with best F1: 
+k:  199
+Best Validation F1:  0.5982478097622027

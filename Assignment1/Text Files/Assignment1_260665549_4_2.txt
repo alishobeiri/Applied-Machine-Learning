@@ -1,0 +1,6 @@
+MSE for dataset 0:  0.01950768144604481
+MSE for dataset 1:  0.02020740860204823
+MSE for dataset 2:  0.0196867358027154
+MSE for dataset 3:  0.016152662158805713
+MSE for dataset 4:  0.017333524433336
+Cross validation error:  0.01857760248859003

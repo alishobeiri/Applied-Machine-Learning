@@ -1,0 +1,1 @@
+Regularized model with lambda = 0.02 with MSE: 10.72883389566123

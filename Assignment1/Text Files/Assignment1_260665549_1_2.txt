@@ -1,0 +1,12 @@
+Fraction of days of activites for  100  days: 
+	 Movies:  0.32
+	 COMP-551:  0.36
+	 Playing:  0.06
+	 Studying:  0.26
+
+
+Fraction of days of activites for  1000  days: 
+	 Movies:  0.212
+	 COMP-551:  0.39
+	 Playing:  0.091
+	 Studying:  0.307

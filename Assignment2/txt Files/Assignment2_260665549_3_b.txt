@@ -1,0 +1,4 @@
+Precision:  0.5550351288056206
+Recall:  0.5925
+Accuracy:  0.55875
+F1 Measure:  0.5731559854897219
